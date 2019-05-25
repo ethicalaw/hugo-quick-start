@@ -1,6 +1,7 @@
 ---
 title: "HHSC Protest Rules"
-date: 2019-05-25
+date: {{ .Date }}
+draft: true
 ---
 
 **HHSC Protest Rules**
