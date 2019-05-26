@@ -3,12 +3,11 @@ title: “HHSC Protest Rules”
 date: 2019-05-25
 ---
 
-<script type="application/json" class="js-hypothesis-config">
-  {
+window.hypothesisConfig = function () {
+  return {
     "openSidebar": true
-  }
-</script>
-<script async src="https://hypothes.is/embed.js"></script>
+  };
+};
 
 
 **HHSC Protest Rules**
@@ -105,7 +104,7 @@ ___
 
 ​		(3) If the Deputy Executive Commissioner of Procurement and Contracting Services determines that HHSC violated the specific statutory or regulatory provision cited by the protestant in a case where HHSC awarded a contract, he or she shall so inform the protestant and other interested parties by letter that sets forth the reasons for the determination, which may include ordering the contract void.
 
-​		(4) The Deputy Executive Commissioner of Procurement and Contracting Services’ written determination is the final administrative action by HHSC on a protest filed under this subchapter unless the protestant files an appeal of the determination under subsection (c) of this section.
+​		(4) The Deputy Executive Commissioner of Procurement and Contracting Services’ written determination is the final administrative action by HHSC on a protest filed under this subchapter unless the protestant files an appeal of the determination under subsection \(c\) of this section.
 
 ​	\(c\) The protestant may appeal the Deputy Executive Commissioner of Procurement and Contracting Services’ determination on a protest to the Executive Commissioner. The appeal must be in writing and received in the Executive Commissioner’s office no later than 10 business days after the date of the Deputy Executive Commissioner of Procurement and Contracting Services’ determination. The appeal shall be limited to review of the Deputy Executive Commissioner of Procurement and Contracting Services’ determination. The protestant must mail or deliver copies of the appeal to other interested parties, and each copy must contain a certified statement that such copies have been provided.
 
