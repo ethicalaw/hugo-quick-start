@@ -26,7 +26,6 @@ window.hypothesisConfig = function () {
 - [§391.407	Review and Disposition of Protests](## §391.407	Review and Disposition of Protests)
 - [§391.409	Contract Awards During Protest](## §391.409	Contract Awards During Protest)
 
-
 ## §391.401	Purpose
 
 The purpose of this subchapter is to provide a formal protest procedure to be used by any respondent who is allegedly aggrieved in connection with the solicitation, evaluation, or award of a contract by HHSC.
