@@ -6,8 +6,11 @@ date: 2019-05-25
 **HHSC Protest Rules**
 
 **TITLE 1**	ADMINISTRATION
+
 **PART 15**	TEXAS HEALTH AND HUMAN SERVICES COMMISSION
+
 **CHAPTER 391**	   PURCHASE OF GOODS AND SERVICES BY THE TEXAS HEALTH AND HUMAN SERVICES COMMISSION
+
 **SUBCHAPTER D	PROTESTS**
 
 [TOC]
@@ -26,11 +29,11 @@ The purpose of this subchapter is to provide a formal protest procedure to be us
 
 ​	(b) This subchapter does not apply to:
 
-​		(1) the award of grants or subcontracts;
+    (1) the award of grants or subcontracts;
 
-​		(2) interstate or international agreements executed in accordance with applicable law; or
+    (2) interstate or international agreements executed in accordance with applicable law; or
 
-​		(3) health care provider enrollment contracts.
+    (3) health care provider enrollment contracts.
 
 ​	(c) HHSC will not conduct protests filed pursuant to this subchapter as contested cases under the Administrative Procedures Act, Texas Government Code, Chapter 2001.
 
