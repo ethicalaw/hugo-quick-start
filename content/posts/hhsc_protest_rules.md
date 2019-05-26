@@ -29,13 +29,13 @@ The purpose of this subchapter is to provide a formal protest procedure to be us
 
 ​	(b) This subchapter does not apply to:
 
-    (1) the award of grants or subcontracts;
+   (1) the award of grants or subcontracts;
 
-    (2) interstate or international agreements executed in accordance with applicable law; or
+   (2) interstate or international agreements executed in accordance with applicable law; or
 
     (3) health care provider enrollment contracts.
 
-​	(c) HHSC will not conduct protests filed pursuant to this subchapter as contested cases under the Administrative Procedures Act, Texas Government Code, Chapter 2001.
+​	\(c\) HHSC will not conduct protests filed pursuant to this subchapter as contested cases under the Administrative Procedures Act, Texas Government Code, Chapter 2001.
 
 *Source Note: The provisions of this §391.403 adopted to be effective June 17, 2015, 40 TexReg 3632*
 
