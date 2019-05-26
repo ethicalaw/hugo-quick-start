@@ -8,8 +8,7 @@ date: 2019-05-25
     "openSidebar": true
   }
 </script>
-<script src=“https://hypothes.is/embed.js” async></script>
-
+<script async src="https://hypothes.is/embed.js"></script>
 
 
 **HHSC Protest Rules**
