@@ -11,6 +11,7 @@ date: 2019-05-25
 <script src=“https://hypothes.is/embed.js” async></script>
 
 
+
 **HHSC Protest Rules**
 
 **TITLE 1**	ADMINISTRATION
