@@ -13,8 +13,6 @@ date: 2019-05-25
 <script async src="https://hypothes.is/embed.js"></script>
 
 
-{{% toc %}}
-
 
 # Introductory notes:
 
