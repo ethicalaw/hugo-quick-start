@@ -13,7 +13,9 @@ date: 2019-05-25
 <script async src="https://hypothes.is/embed.js"></script>
 
 
-__Introductory notes:__
+{{.TableOfContents}}
+
+# Introductory notes:
 
 * The rules displayed on this page were adopted in 2015 and amended in 2019. Before 2015, HHSC viewed the protest process as a benefit to the _agency_ rather than due process for a disappointed bidder. The agency's objective was to achieve best value and to correct avoidable errors. 
 
@@ -22,7 +24,7 @@ __Introductory notes:__
 * Typically, the protest followed a debriefing that the former rules required the agency to provide within 3 days after the agency announced "tentative awards" of contracts to other vendors, which could be withdrawn befoer final award or after a successful protest. The protesting party was not granted access to other proposals or to the scoring of any proposal other than its own. the agency did not provide access to internal information during the process. It woudl routinely deny requests for such information befoer final award of a contract.
 
 
-**HHSC Protest Rules**
+# HHSC Protest Rules
 
 **TITLE 1**	ADMINISTRATION
 
@@ -31,16 +33,6 @@ __Introductory notes:__
 **CHAPTER 391**	   PURCHASE OF GOODS AND SERVICES BY THE TEXAS HEALTH AND HUMAN SERVICES COMMISSION
 
 **SUBCHAPTER D	PROTESTS**
-
-[§391.401 Purpose](https://client-resources.onrender.com/posts/hhsc_protest_rules/##%20%C2%A7391.401%20%20Purpose)
-
-[§391.403 Applicability](https://client-resources.onrender.com/posts/hhsc_protest_rules/##%20%C2%A7391.403%20%20Applicability)
-
-[§391.405 Filing of a Protest](https://client-resources.onrender.com/posts/hhsc_protest_rules/##%20%C2%A7391.405%20%20Filing-of-a-Protest)
-
-[§391.407 Review and Disposition of Protests](https://github.com/ethicalaw/hugo-quick-start/blob/master/content/posts/hhsc_protest_rules.md#391407reviewanddispositionofprotests)
-
-[§391.409 Contract Awards During Protests](https://github.com/ethicalaw/hugo-quick-start/blob/master/content/posts/hhsc_protest_rules.md#391409contractawardsduringprotest)
 
 ## §391.401	Purpose
 
