@@ -23,9 +23,13 @@ date: 2019-05-25
 **SUBCHAPTER D	PROTESTS**
 
 [§391.401 Purpose](https://github.com/ethicalaw/hugo-quick-start/blob/master/content/posts/hhsc_protest_rules.md#391401purpose)
+
 [§391.403 Applicability](https://github.com/ethicalaw/hugo-quick-start/blob/master/content/posts/hhsc_protest_rules.md#391403applicability)
+
 [§391.405 Filing of a Protest](https://github.com/ethicalaw/hugo-quick-start/blob/master/content/posts/hhsc_protest_rules.md#391405filingofaprotest)
+
 [§391.407 Review and Disposition of Protests](https://github.com/ethicalaw/hugo-quick-start/blob/master/content/posts/hhsc_protest_rules.md#391407reviewanddispositionofprotests)
+
 [§391.409 Contract Awards During Protests](https://github.com/ethicalaw/hugo-quick-start/blob/master/content/posts/hhsc_protest_rules.md#391409contractawardsduringprotest)
 
 ## §391.401	Purpose
