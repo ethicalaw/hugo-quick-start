@@ -12,6 +12,11 @@ date: 2019-05-25
 </script>
 <script async src="https://hypothes.is/embed.js"></script>
 
+__Introductory notes:__
+* The rules displayed on this page were adopted in 2015 and amended in 2019. Before 2015, HHSC viewed the protest process as a benefit to the _agency_ rather than due process for a disappointed bidder. The agency's objective was to achieve best value and to correct avoidable errors. 
+* HHSC rules formerly permitted a vendor to notify the agency of an "irregularity" in the procurement that may have led the agency to erroneously evaluate the protesting party's proposal. The protesting party was required to explain how the agency may have erroneously evaluated its proposal. It could not use the process to undercut a competitior's proposal or to identify errors committed with respect to other parties' proposals. 
+* Typically, the protest followed a debriefing that the former rules required the agency to provide within 3 days after the agency announced "tentative awards" of contracts to other vendors, which could be withdrawn befoer final award or after a successful protest. The protesting party was not granted access to other proposals or to the scoring of any proposal other than its own. the agency did not provide access to internal information during the process. It woudl routinely deny requests for such information befoer final award of a contract.
+
 
 **HHSC Protest Rules**
 
