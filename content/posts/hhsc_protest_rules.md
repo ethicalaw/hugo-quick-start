@@ -3,11 +3,12 @@ title: “HHSC Protest Rules”
 date: 2019-05-25
 ---
 
-window.hypothesisConfig = function () {
-  return {
+<script type="application/json" class="js-hypothesis-config">
+  {
     "openSidebar": true
-  };
-};
+  }
+</script>
+<script async src="https://hypothes.is/embed.js"></script>
 
 
 **HHSC Protest Rules**
