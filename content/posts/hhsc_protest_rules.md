@@ -1,13 +1,14 @@
 ---
 title: “HHSC Protest Rules”
 date: 2019-05-25
-customjs:
--window.hypothesisConfig = function () {
+---
+
+window.hypothesisConfig = function () {
   return {
     "openSidebar": true
   };
 };
----
+
 
 **HHSC Protest Rules**
 
