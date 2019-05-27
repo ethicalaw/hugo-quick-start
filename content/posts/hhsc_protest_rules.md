@@ -5,6 +5,7 @@ date: 2019-05-25
 
 <!-- This is commented out. -->
 <script type="application/json" class="js-hypothesis-config">
+<!-- This is commented out. -->
   {
     "openSidebar": true
   }
@@ -22,11 +23,11 @@ date: 2019-05-25
 
 **SUBCHAPTER D	PROTESTS**
 
-[§391.401 Purpose](https://github.com/ethicalaw/hugo-quick-start/blob/master/content/posts/hhsc_protest_rules.md#391401purpose)
+[§391.401 Purpose](https://client-resources.onrender.com/posts/hhsc_protest_rules/##%20%C2%A7391.401%20%20Purpose)
 
-[§391.403 Applicability](https://github.com/ethicalaw/hugo-quick-start/blob/master/content/posts/hhsc_protest_rules.md#391403applicability)
+[§391.403 Applicability](https://client-resources.onrender.com/posts/hhsc_protest_rules/##%20%C2%A7391.403%20%20Applicability)
 
-[§391.405 Filing of a Protest](https://github.com/ethicalaw/hugo-quick-start/blob/master/content/posts/hhsc_protest_rules.md#391405filingofaprotest)
+[§391.405 Filing of a Protest](https://client-resources.onrender.com/posts/hhsc_protest_rules/##%20%C2%A7391.405%20%20Filing-of-a-Protest)
 
 [§391.407 Review and Disposition of Protests](https://github.com/ethicalaw/hugo-quick-start/blob/master/content/posts/hhsc_protest_rules.md#391407reviewanddispositionofprotests)
 
