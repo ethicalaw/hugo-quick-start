@@ -22,12 +22,7 @@ date: 2019-05-25
 
 **SUBCHAPTER D	PROTESTS**
 
-- [§391.401	Purpose](##§391.401	Purpose)
-- [§391.403	Applicability](## §391.403	Applicability)
-- [§391.405	Filing of a Protest](## §391.405	Filing of a Protest)
-- [§391.407	Review and Disposition of Protests](## §391.407	Review and Disposition of Protests)
-- [§391.409	Contract Awards During Protest](## §391.409	Contract Awards During Protest)
-
+- TOC {:toc}
 
 ## §391.401	Purpose
 
