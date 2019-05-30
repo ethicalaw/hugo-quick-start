@@ -1,4 +1,4 @@
 baseURL = "https://hugo.onrender.com"
 languageCode = "en-us"
 title = "Ethicalaw Client Resources"
-theme = "pickles"
+theme = "hugo_theme_pickles"
