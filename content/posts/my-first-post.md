@@ -1,6 +1,7 @@
 ---
 title: “Introductory Matters”
 date: 2019-01-04
+tag: page
 ---
 # About this site
 
